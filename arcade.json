@@ -1,0 +1,42 @@
+﻿{
+	"name": "GGC",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "217",
+	"used-plugins": [
+		"Browser",
+		"Button",
+		"ComboBox",
+		"ConstructPlayGames",
+		"Function",
+		"Keyboard",
+		"List",
+		"Mouse",
+		"Multiplayer",
+		"ScirraArcadeV4",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"TiledBg",
+		"Tilemap",
+		"Touch",
+		"sirg_notifications"
+	],
+	"used-behaviors": [
+		"Bullet",
+		"Car",
+		"DragnDrop",
+		"EightDir",
+		"Physics",
+		"bound",
+		"scrollto",
+		"solid"
+	]
+}
